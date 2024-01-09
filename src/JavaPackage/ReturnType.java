@@ -10,9 +10,7 @@ public class ReturnType {
 		
 		System.out.println(k);
 		
-	 int i = ReturnType.minus();
-	
-	System.out.println(i);
+	System.out.println(minus());
 	
 	}
 
@@ -20,6 +18,7 @@ public class ReturnType {
 		int k = i+j;
 		return k;  
 	}
+	
 	 public static int minus() {
 		 
 		 int i = 5;
