@@ -15,3 +15,4 @@ class Test {
 	} 
 } 										
 
+( output for above code is 1)
